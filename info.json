@@ -1,0 +1,9 @@
+{
+  "name": "blueprint-train-auto-scheduler",
+  "version": "0.1.0",
+  "title": "Blueprint Train Auto Scheduler",
+  "author": "Wollus",
+  "description": "Sets trains placed via blueprints to target the nearest station and switch to automatic mode.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"]
+}
